@@ -11,3 +11,6 @@ online_resources_site/site/
 *.sqlite3
 
 .idea/*
+.idea
+.idea/misc.xml
+.idea/pcc_3e.iml
