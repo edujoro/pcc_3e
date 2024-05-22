@@ -5,4 +5,4 @@ except ValueError:
     print('Invalid input')
 else:
     suma = num1 + num2
-    print('The sum of these numbers is: ', sum)
+    print('The sum of these numbers is: ', suma)
